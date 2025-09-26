@@ -3,7 +3,7 @@
   "width": 800,
   "height": 800,
   "title": {
-    "text": "Passenger Vehicles per 1,000 Residents \u2014 by State (Jan 2024)",
+    "text": "Passenger Vehicles per 1,000 People by State (Jan 2024)",
     "subtitle": [
       "Source: BITRE Road Vehicles Australia (released 23 July 2024)"
     ],
@@ -70,7 +70,7 @@
         "color": {
           "field": "cars_per_1000",
           "type": "quantitative",
-          "title": "Cars per 1,000 residents",
+          "title": "Cars per 1,000 people",
           "scale": {
             "scheme": "greens"
           }

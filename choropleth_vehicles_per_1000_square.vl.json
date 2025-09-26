@@ -68,7 +68,7 @@
         "color": {
           "field": "cars_per_1000",
           "type": "quantitative",
-          "title": "Cars per 1,000 residents",
+          "title": "Cars per 1,000 people",
           "scale": {
             "scheme": "greens"
           }
